@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Time Logger / Tracker</string>
+
+    <!-- Common Strings  -->
+
+    <string name="about_app">This application allows you to keep track of time spent in all the projects you got.</string>
+    <string name="check_my_other_apps">Check other apps</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_app">Rate App</string>
+    <string name="settings">Settings</string>
+
+    <!-- Strings Used by App -->
+
+    <string name="projects">Projects</string>
+
+    <!-- Add Project Activity -->
+    <string name="add_project">Add Project</string>
+    <string name="project_title">Project Title</string>
+    <string name="enter_client_name">Client Name</string>
+    <string name="project_description">Project Description</string>
+    <string name="select_start_date">Start Date</string>
+    <string name="additional_information">Additional Information</string>
+    <string name="hourly_rate">Hourly Rate</string>
+    <string name="empty_fields">Empty Fields</string>
+    <string name="add_task_first">Add task first</string>
+
+</resources>

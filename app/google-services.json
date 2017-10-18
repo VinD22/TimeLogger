@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "98399729502",
+    "firebase_url": "https://timelogger-app.firebaseio.com",
+    "project_id": "timelogger-app",
+    "storage_bucket": "timelogger-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98399729502:android:590bd666ed470799",
+        "android_client_info": {
+          "package_name": "project.timer.tracker.logger.time.v.app.timelogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98399729502-mpkc67ln32901khme8d5pqn630261h3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClzHbR5nkehVCMw2ZE07yfmbxm_vz_MzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
