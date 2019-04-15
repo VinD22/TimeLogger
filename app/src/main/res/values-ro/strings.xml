@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">Ține evidența timpului și a veniturilor într-un proiect</string>
+    <string name="add_project">Adăugați un proiect</string>
+    <string name="project_title">Titlul proiectului</string>
+    <string name="enter_client_name">numele clientului</string>
+    <string name="project_description">descrierea proiectului</string>
+    <string name="select_start_date">Data de început</string>
+    <string name="additional_information">informatii suplimentare</string>
+    <string name="hourly_rate">Tarif pe ore</string>
+    <string name="empty_fields">Câmpurile goale</string>
+    <string name="add_task_first">Adăugați o sarcină</string>
+    <string name="task_description">Descrierea sarcinii</string>
+    <string name="task_name">nume sarcină</string>
+    <string name="add_task">Adăugați sarcină</string>
+    <string name="stop">Stop</string>
+    <string name="play">a juca</string>
+    <string name="reset">restabili</string>
+    <string name="resume">Relua</string>
+    <string name="choose_task">Alegeți Sarcină</string>
+    <string name="add_time_log">Adăugați Timpul Jurnal</string>
+    <string name="check_time_task">Verificați cronometrul, selectați sarcinile și adăugați timp</string>
+    <string name="minutes">Minute</string>
+    <string name="time_spent">Timp petrecut</string>
+    <string name="earned">câștigat</string>
+    <string name="projects">proiecte</string>
+    <string name="settings">Setări</string>
+    <string name="check_my_other_apps">Verificați alte aplicații</string>
+    <string name="share_app">împărţi</string>
+    <string name="rate_app">Revizuire</string>
+</resources>

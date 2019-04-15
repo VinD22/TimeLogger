@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">Следите за временем и доходов в проекте</string>
+    <string name="add_project">Добавить проект</string>
+    <string name="project_title">Название Проекта</string>
+    <string name="enter_client_name">имя клиента</string>
+    <string name="project_description">Описание Проекта</string>
+    <string name="select_start_date">Дата начала</string>
+    <string name="additional_information">Дополнительная информация</string>
+    <string name="hourly_rate">почасовая ставка</string>
+    <string name="empty_fields">Пустые поля</string>
+    <string name="add_task_first">Добавить задачу</string>
+    <string name="task_description">Описание задания</string>
+    <string name="task_name">имя задачи</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="stop">Стоп</string>
+    <string name="play">Играть</string>
+    <string name="reset">Сброс</string>
+    <string name="resume">Продолжить</string>
+    <string name="choose_task">Выберите задачу</string>
+    <string name="add_time_log">Добавить Time Вход</string>
+    <string name="check_time_task">Проверьте таймер, выберите задачи и добавить время</string>
+    <string name="minutes">минут</string>
+    <string name="time_spent">Время потрачено</string>
+    <string name="earned">заработанный</string>
+    <string name="projects">проектов</string>
+    <string name="settings">настройки</string>
+    <string name="check_my_other_apps">Проверить другие мои приложения</string>
+    <string name="share_app">Поделиться</string>
+    <string name="rate_app">Обзор приложения</string>
+</resources>

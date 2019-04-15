@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">Seurata aikaa ja tuloja projektissa</string>
+    <string name="add_project">Lisää Projekti</string>
+    <string name="project_title">projektin nimi</string>
+    <string name="enter_client_name">Asiakkaan Nimi</string>
+    <string name="project_description">Hankkeen kuvaus</string>
+    <string name="select_start_date">Aloituspäivämäärä</string>
+    <string name="additional_information">lisäinformaatio</string>
+    <string name="hourly_rate">Tuntitaksa</string>
+    <string name="empty_fields">tyhjiä kenttiä</string>
+    <string name="add_task_first">Lisää tehtävä</string>
+    <string name="task_description">Tehtävän kuvaus</string>
+    <string name="task_name">tehtävä</string>
+    <string name="add_task">Lisää tehtävä</string>
+    <string name="stop">Stop</string>
+    <string name="play">pelata</string>
+    <string name="reset">asettaa uudelleen</string>
+    <string name="resume">Jatkaa</string>
+    <string name="choose_task">Valitse Tehtävä</string>
+    <string name="add_time_log">Lisää aika halko</string>
+    <string name="check_time_task">Tarkista ajastimen, valitse tehtäviä ja lisää aikaa</string>
+    <string name="minutes">Minuutit</string>
+    <string name="time_spent">Käytetty aika</string>
+    <string name="earned">Ansaittu</string>
+    <string name="projects">projektit</string>
+    <string name="settings">asetukset</string>
+    <string name="check_my_other_apps">Tarkista toinen sovellus</string>
+    <string name="share_app">osuus</string>
+    <string name="rate_app">Arvostelu</string>
+</resources>

@@ -39,6 +39,9 @@ dependencies {
     compile 'com.google.firebase:firebase-messaging:9.8.0'
     compile 'com.google.firebase:firebase-crash:9.8.0'
 
+    // Spinner Library
+    compile 'com.github.piotrek1543:CustomSpinner:0.1'
+
 }
 
 apply plugin: 'realm-android'

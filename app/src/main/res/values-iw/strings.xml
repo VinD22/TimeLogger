@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">לערוך מעקב זמן והכנסות בפרויקט</string>
+    <string name="add_project">להוסיף לפרויקט</string>
+    <string name="project_title">כותרת הפרויקט</string>
+    <string name="enter_client_name">שם הלקוח</string>
+    <string name="project_description">תיאור פרויקט</string>
+    <string name="select_start_date">תאריך התחלה</string>
+    <string name="additional_information">מידע נוסף</string>
+    <string name="hourly_rate">תעריף לשעה</string>
+    <string name="empty_fields">שדות ריקים</string>
+    <string name="add_task_first">הוספת משימה</string>
+    <string name="task_description">תיאור משימה</string>
+    <string name="task_name">שם המטלה</string>
+    <string name="add_task">הוספת משימות</string>
+    <string name="stop">תפסיק</string>
+    <string name="play">לְשַׂחֵק</string>
+    <string name="reset">אִתחוּל</string>
+    <string name="resume">קורות חיים</string>
+    <string name="choose_task">בחר משימה</string>
+    <string name="add_time_log">הוספת זמן התחבר</string>
+    <string name="check_time_task">בדוק הטיימר, בחר משימות ולהוסיף זמן</string>
+    <string name="minutes">דקות</string>
+    <string name="time_spent">בזבוז זמן</string>
+    <string name="earned">שהורווחו</string>
+    <string name="projects">פרויקטים</string>
+    <string name="settings">הגדרות</string>
+    <string name="check_my_other_apps">בדוק יישומים אחרים</string>
+    <string name="share_app">לַחֲלוֹק</string>
+    <string name="rate_app">סקירה</string>
+</resources>

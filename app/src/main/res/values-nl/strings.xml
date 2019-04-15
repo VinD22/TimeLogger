@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">Blijf op de hoogte van de tijd en omzet in een project</string>
+    <string name="add_project">Voeg Project</string>
+    <string name="project_title">project titel</string>
+    <string name="enter_client_name">klantnaam</string>
+    <string name="project_description">project Beschrijving</string>
+    <string name="select_start_date">Begin datum</string>
+    <string name="additional_information">Extra informatie</string>
+    <string name="hourly_rate">Uurtarief</string>
+    <string name="empty_fields">lege Fields</string>
+    <string name="add_task_first">Een taak toevoegen</string>
+    <string name="task_description">Taakomschrijving</string>
+    <string name="task_name">Opdrachtnaam</string>
+    <string name="add_task">Taak toevoegen</string>
+    <string name="stop">Hou op</string>
+    <string name="play">Spelen</string>
+    <string name="reset">Reset</string>
+    <string name="resume">Hervat</string>
+    <string name="choose_task">Kies Task</string>
+    <string name="add_time_log">Voeg Time Log</string>
+    <string name="check_time_task">Controleer timer, selecteert u taken en voeg de tijd</string>
+    <string name="minutes">Notulen</string>
+    <string name="time_spent">Tijd besteed</string>
+    <string name="earned">verdiende</string>
+    <string name="projects">projecten</string>
+    <string name="settings">instellingen</string>
+    <string name="check_my_other_apps">Controleer andere toepassingen</string>
+    <string name="share_app">Delen</string>
+    <string name="rate_app">recensie</string>
+</resources>

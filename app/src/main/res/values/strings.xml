@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Time Logger / Tracker</string>
+    <string name="app_name" translatable="false">Time Logger / Tracker</string>
 
     <!-- Common Strings  -->
 
@@ -23,5 +23,18 @@
     <string name="hourly_rate">Hourly Rate</string>
     <string name="empty_fields">Empty Fields</string>
     <string name="add_task_first">Add task first</string>
+    <string name="task_description">Task Description</string>
+    <string name="task_name">Task name</string>
+    <string name="add_task">Add Task</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="reset">Reset</string>
+    <string name="resume">Resume</string>
+    <string name="choose_task">Choose Task</string>
+    <string name="add_time_log">Add Time Log</string>
+    <string name="check_time_task">Check timer, select tasks and add time</string>
+    <string name="minutes">Minutes</string>
+    <string name="time_spent">Time spent</string>
+    <string name="earned">Earned</string>
 
 </resources>

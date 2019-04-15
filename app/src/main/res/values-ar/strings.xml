@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">تتبع الوقت ودخل في مشروع</string>
+    <string name="add_project">إضافة مشروع</string>
+    <string name="project_title">عنوان المشروع</string>
+    <string name="enter_client_name">اسم العميل</string>
+    <string name="project_description">وصف المشروع</string>
+    <string name="select_start_date">تاريخ البدء</string>
+    <string name="additional_information">معلومة اضافية</string>
+    <string name="hourly_rate">المعدل بالساعة</string>
+    <string name="empty_fields">الحقول الفارغة</string>
+    <string name="add_task_first">إضافة مهمة</string>
+    <string name="task_description">وصف المهمة</string>
+    <string name="task_name">اسم المهمة</string>
+    <string name="add_task">إضافة مهمة</string>
+    <string name="stop">توقف</string>
+    <string name="play">لعب</string>
+    <string name="reset">إعادة تعيين</string>
+    <string name="resume">استئنف</string>
+    <string name="choose_task">اختيار العمل</string>
+    <string name="add_time_log">إضافة وقت دخول</string>
+    <string name="check_time_task">تحقق الموقت، حدد المهام وإضافة وقت</string>
+    <string name="minutes">الدقائق</string>
+    <string name="time_spent">قضاء الوقت</string>
+    <string name="earned">حصل</string>
+    <string name="projects">مشاريع</string>
+    <string name="settings">إعدادات</string>
+    <string name="check_my_other_apps">تحقق من بلدي تطبيقات أخرى</string>
+    <string name="share_app">شارك</string>
+    <string name="rate_app">إعادة النظر</string>
+</resources>

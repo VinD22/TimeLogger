@@ -11,7 +11,7 @@ public class TimeLog extends RealmObject {
     private int id;
     private int taskId;
     private int projectId;
-    private long timeSpent;
+    private int timeSpent;
 
     public int getId() {
         return id;
@@ -37,11 +37,11 @@ public class TimeLog extends RealmObject {
         this.projectId = projectId;
     }
 
-    public long getTimeSpent() {
+    public int getTimeSpent() {
         return timeSpent;
     }
 
-    public void setTimeSpent(long timeSpent) {
+    public void setTimeSpent(int timeSpent) {
         this.timeSpent = timeSpent;
     }
 

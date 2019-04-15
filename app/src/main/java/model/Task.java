@@ -14,7 +14,6 @@ public class Task extends RealmObject {
     private boolean status;
     private int projectId;
 
-
     public String getTaskName() {
         return taskName;
     }

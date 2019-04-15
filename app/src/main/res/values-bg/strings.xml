@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">Следете часа и приходите в проект</string>
+    <string name="add_project">Добавяне на проект</string>
+    <string name="project_title">Заглавие на Проекта</string>
+    <string name="enter_client_name">име на клиента</string>
+    <string name="project_description">Описание на проекта</string>
+    <string name="select_start_date">Начална дата</string>
+    <string name="additional_information">Допълнителна информация</string>
+    <string name="hourly_rate">Часова ставка</string>
+    <string name="empty_fields">Празните полета</string>
+    <string name="add_task_first">Добавяне на задача</string>
+    <string name="task_description">Задача Описание</string>
+    <string name="task_name">име на Задача</string>
+    <string name="add_task">Добавяне на задача</string>
+    <string name="stop">Спри се</string>
+    <string name="play">играя</string>
+    <string name="reset">Нулиране</string>
+    <string name="resume">Продължи</string>
+    <string name="choose_task">Изберете Задача</string>
+    <string name="add_time_log">Добави Време Вход</string>
+    <string name="check_time_task">Проверка на таймера, изберете задачи и добавяне на време</string>
+    <string name="minutes">Минути</string>
+    <string name="time_spent">Прекарано време</string>
+    <string name="earned">Спечелени</string>
+    <string name="projects">Проекти</string>
+    <string name="settings">Настройки</string>
+    <string name="check_my_other_apps">Проверете моята друга молба</string>
+    <string name="share_app">Дял</string>
+    <string name="rate_app">Преглед на приложението</string>
+</resources>

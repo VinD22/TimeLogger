@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">Gardez une trace du temps et des revenus dans un projet</string>
+    <string name="add_project">Ajouter un projet</string>
+    <string name="project_title">Titre du projet</string>
+    <string name="enter_client_name">Nom du client</string>
+    <string name="project_description">Description du projet</string>
+    <string name="select_start_date">Date de début</string>
+    <string name="additional_information">Information additionnelle</string>
+    <string name="hourly_rate">Taux horaire</string>
+    <string name="empty_fields">Les champs vides</string>
+    <string name="add_task_first">Ajouter une tâche</string>
+    <string name="task_description">Description de la tâche</string>
+    <string name="task_name">Nom de la tâche</string>
+    <string name="add_task">Ajouter une tâche</string>
+    <string name="stop">Arrêtez</string>
+    <string name="play">Jouer</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="resume">CV</string>
+    <string name="choose_task">Choisissez Tâche</string>
+    <string name="add_time_log">Ajouter du temps Log</string>
+    <string name="check_time_task">Vérifiez la minuterie, sélectionnez les tâches et ajouter du temps</string>
+    <string name="minutes">Minutes</string>
+    <string name="time_spent">Temps passé</string>
+    <string name="earned">Earned</string>
+    <string name="projects">Projets</string>
+    <string name="settings">Paramètres</string>
+    <string name="check_my_other_apps">Vérifiez d\'autres applications</string>
+    <string name="share_app">Partager</string>
+    <string name="rate_app">la critique</string>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">Bir projede zaman ve gelir takip edin</string>
+    <string name="add_project">Project ekle</string>
+    <string name="project_title">Proje Başlığı</string>
+    <string name="enter_client_name">Müşteri Adı</string>
+    <string name="project_description">Proje Açıklaması</string>
+    <string name="select_start_date">Başlangıç ​​tarihi</string>
+    <string name="additional_information">ek bilgi</string>
+    <string name="hourly_rate">Saatlik ücret</string>
+    <string name="empty_fields">Boş Alanlar</string>
+    <string name="add_task_first">Görev ekleme</string>
+    <string name="task_description">Görev tanımı</string>
+    <string name="task_name">Görev adı</string>
+    <string name="add_task">Görev ekle</string>
+    <string name="stop">Dur</string>
+    <string name="play">Oyun</string>
+    <string name="reset">Reset</string>
+    <string name="resume">Devam et</string>
+    <string name="choose_task">Görevi seç</string>
+    <string name="add_time_log">Zaman Günlüğü Ekle</string>
+    <string name="check_time_task">, Zamanlayıcı kontrol görevlerini seçmek ve saat eklemek</string>
+    <string name="minutes">Dakika</string>
+    <string name="time_spent">Harcanan zaman</string>
+    <string name="earned">Kazanılan</string>
+    <string name="projects">Projeler</string>
+    <string name="settings">Ayarlar</string>
+    <string name="check_my_other_apps">Diğer uygulamaları kontrol et</string>
+    <string name="share_app">paylaşmak</string>
+    <string name="rate_app">eleştiri</string>
+</resources>

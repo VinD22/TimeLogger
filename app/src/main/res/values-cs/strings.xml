@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">Mějte přehled o čase a příjmů v rámci projektu</string>
+    <string name="add_project">Přidat projekt</string>
+    <string name="project_title">Název projektu</string>
+    <string name="enter_client_name">jméno klienta</string>
+    <string name="project_description">Popis projektu</string>
+    <string name="select_start_date">Datum zahájení</string>
+    <string name="additional_information">dodatečné informace</string>
+    <string name="hourly_rate">Hodinová sazba</string>
+    <string name="empty_fields">prázdné Fields</string>
+    <string name="add_task_first">Přidání úkolu</string>
+    <string name="task_description">Popis ulohy</string>
+    <string name="task_name">název úkolu</string>
+    <string name="add_task">Přidat úkol</string>
+    <string name="stop">Stop</string>
+    <string name="play">Hrát si</string>
+    <string name="reset">resetovat</string>
+    <string name="resume">Životopis</string>
+    <string name="choose_task">zvolit úkol</string>
+    <string name="add_time_log">Přidat čas se přihlásit</string>
+    <string name="check_time_task">Zkontrolovat měřič, zvolte úkoly a přidat čas</string>
+    <string name="minutes">Minut</string>
+    <string name="time_spent">Strávený čas</string>
+    <string name="earned">Zasloužené</string>
+    <string name="projects">projekty</string>
+    <string name="settings">Nastavení</string>
+    <string name="check_my_other_apps">Zkontrolujte ostatní aplikace</string>
+    <string name="share_app">Podíl</string>
+    <string name="rate_app">posoudit</string>
+</resources>

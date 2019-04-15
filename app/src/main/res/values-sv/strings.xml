@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">Håll koll på tid och inkomster i ett projekt</string>
+    <string name="add_project">Lägg Project</string>
+    <string name="project_title">Projekt Titel</string>
+    <string name="enter_client_name">Kundnamn</string>
+    <string name="project_description">projekt beskrivning</string>
+    <string name="select_start_date">Start datum</string>
+    <string name="additional_information">ytterligare information</string>
+    <string name="hourly_rate">Timtaxa</string>
+    <string name="empty_fields">tomma fält</string>
+    <string name="add_task_first">Lägg till en uppgift</string>
+    <string name="task_description">Uppgifts beskrivning</string>
+    <string name="task_name">Arbetsnamn</string>
+    <string name="add_task">Lägg Task</string>
+    <string name="stop">Sluta</string>
+    <string name="play">Spela</string>
+    <string name="reset">Återställa</string>
+    <string name="resume">Återuppta</string>
+    <string name="choose_task">Välj Task</string>
+    <string name="add_time_log">Lägg Time Log</string>
+    <string name="check_time_task">Kontrollera timern väljer uppgifter och lägga tid</string>
+    <string name="minutes">Minuter</string>
+    <string name="time_spent">Spenderad tid</string>
+    <string name="earned">Tjänade</string>
+    <string name="projects">projekt</string>
+    <string name="settings">inställningar</string>
+    <string name="check_my_other_apps">Kontrollera andra program</string>
+    <string name="share_app">dela</string>
+    <string name="rate_app">Recension</string>
+</resources>

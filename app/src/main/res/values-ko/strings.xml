@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">프로젝트 시간과 수익을 계속 추적</string>
+    <string name="add_project">프로젝트 추가</string>
+    <string name="project_title">프로젝트 제목</string>
+    <string name="enter_client_name">고객 이름</string>
+    <string name="project_description">프로젝트 설명</string>
+    <string name="select_start_date">시작 날짜</string>
+    <string name="additional_information">추가 정보</string>
+    <string name="hourly_rate">시간당 요금</string>
+    <string name="empty_fields">빈 필드</string>
+    <string name="add_task_first">작업을 추가</string>
+    <string name="task_description">작업 설명</string>
+    <string name="task_name">작업 이름</string>
+    <string name="add_task">작업 추가</string>
+    <string name="stop">중지</string>
+    <string name="play">놀이</string>
+    <string name="reset">다시 놓기</string>
+    <string name="resume">이력서</string>
+    <string name="choose_task">작업을 선택</string>
+    <string name="add_time_log">시간 로그 추가</string>
+    <string name="check_time_task">타이머 확인 작업을 선택하고 시간을 추가</string>
+    <string name="minutes">의사록</string>
+    <string name="time_spent">시간 소요</string>
+    <string name="earned">근로</string>
+    <string name="projects">프로젝트</string>
+    <string name="settings">설정</string>
+    <string name="check_my_other_apps">다른 앱 확인</string>
+    <string name="share_app">나누다</string>
+    <string name="rate_app">비평</string>
+</resources>

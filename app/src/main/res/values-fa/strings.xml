@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">از زمان و درآمد را در یک پروژه</string>
+    <string name="add_project">اضافه کردن پروژه</string>
+    <string name="project_title">عنوان پروژه</string>
+    <string name="enter_client_name">نام مشتری</string>
+    <string name="project_description">شرح پروژه</string>
+    <string name="select_start_date">تاریخ شروع</string>
+    <string name="additional_information">اطلاعات اضافی</string>
+    <string name="hourly_rate">نرخ ساعتی</string>
+    <string name="empty_fields">زمینه های خالی</string>
+    <string name="add_task_first">اضافه کردن یک کار</string>
+    <string name="task_description">شرح وظیفه</string>
+    <string name="task_name">نام کار</string>
+    <string name="add_task">اضافه کردن کار</string>
+    <string name="stop">متوقف کردن</string>
+    <string name="play">بازی</string>
+    <string name="reset">تنظیم مجدد</string>
+    <string name="resume">ادامه</string>
+    <string name="choose_task">انتخاب وظیفه</string>
+    <string name="add_time_log">اضافه کردن زمان ورود</string>
+    <string name="check_time_task">بررسی تایمر، وظایف را انتخاب کنید و اضافه کردن زمان</string>
+    <string name="minutes">دقایق</string>
+    <string name="time_spent">زمان صرف شده</string>
+    <string name="earned">به دست آورده</string>
+    <string name="projects">پروژه ها</string>
+    <string name="settings">تنظیمات</string>
+    <string name="check_my_other_apps">بررسی برنامه های دیگر من</string>
+    <string name="share_app">بخش کردن</string>
+    <string name="rate_app">تجدید نظر</string>
+</resources>

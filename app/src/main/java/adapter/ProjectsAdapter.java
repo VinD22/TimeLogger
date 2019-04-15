@@ -12,27 +12,18 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-import io.realm.Realm;
 import model.Project;
 import project.timer.tracker.logger.time.v.app.timelogger.ProjectDetails;
 import project.timer.tracker.logger.time.v.app.timelogger.R;
 
-/**
- * Car Adapter class
- */
-
 public class ProjectsAdapter extends RecyclerView.Adapter<ProjectsAdapter.RecyclerViewHolder> {
 
-    private static final String INVENTORY_UPDATE = "inventory_update";
     private List<Project> data;
     private Context mContext;
-    Realm realm;
 
     public ProjectsAdapter(Context context, ArrayList<Project> data) {
         this.mContext = context;
         this.data = data;
-        realm = Realm.getDefaultInstance();
-        // setHasStableIds(true);
     }
 
     @Override

@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">プロジェクトに時間と収益を追跡します</string>
+    <string name="add_project">プロジェクトの追加</string>
+    <string name="project_title">プロジェクト名</string>
+    <string name="enter_client_name">クライアント名</string>
+    <string name="project_description">プロジェクトの説明</string>
+    <string name="select_start_date">開始日</string>
+    <string name="additional_information">追加情報</string>
+    <string name="hourly_rate">時給</string>
+    <string name="empty_fields">空のフィールド</string>
+    <string name="add_task_first">タスクを追加します</string>
+    <string name="task_description">タスク説明</string>
+    <string name="task_name">タスク名</string>
+    <string name="add_task">タスクを追加します</string>
+    <string name="stop">やめる</string>
+    <string name="play">遊びます</string>
+    <string name="reset">リセット</string>
+    <string name="resume">履歴書</string>
+    <string name="choose_task">タスクを選択します。</string>
+    <string name="add_time_log">時間のログを追加します。</string>
+    <string name="check_time_task">タイマーを確認し、タスクを選択して、時間を追加</string>
+    <string name="minutes">議事録</string>
+    <string name="time_spent">使った時間</string>
+    <string name="earned">アーンド</string>
+    <string name="projects">プロジェクト</string>
+    <string name="settings">設定</string>
+    <string name="check_my_other_apps">他のアプリをチェックする</string>
+    <string name="share_app">分け合う</string>
+    <string name="rate_app">批評</string>
+</resources>

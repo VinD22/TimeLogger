@@ -103,10 +103,11 @@ public class MainActivity extends AppCompatActivity {
         mRecyclerView.addOnScrollListener(new RecyclerView.OnScrollListener() {
             @Override
             public void onScrolled(RecyclerView recyclerView, int dx, int dy) {
-                if (dy > 0)
+                if (dy > 0) {
                     mAddProject.hide();
-                else if (dy < 0)
+                } else if (dy < 0) {
                     mAddProject.show();
+                }
             }
         });
 

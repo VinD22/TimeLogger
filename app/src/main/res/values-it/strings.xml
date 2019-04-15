@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">Tenere traccia del tempo e delle entrate in un progetto</string>
+    <string name="add_project">Aggiungi progetto</string>
+    <string name="project_title">titolo del progetto</string>
+    <string name="enter_client_name">nome del cliente</string>
+    <string name="project_description">descrizione del progetto</string>
+    <string name="select_start_date">Data d\'inizio</string>
+    <string name="additional_information">Informazioni aggiuntive</string>
+    <string name="hourly_rate">Tariffa oraria</string>
+    <string name="empty_fields">I campi vuoti</string>
+    <string name="add_task_first">Aggiungere un compito</string>
+    <string name="task_description">Descrizione del compito</string>
+    <string name="task_name">nome attività</string>
+    <string name="add_task">Aggiungi attività</string>
+    <string name="stop">Stop</string>
+    <string name="play">Giocare</string>
+    <string name="reset">Reset</string>
+    <string name="resume">Curriculum vitae</string>
+    <string name="choose_task">Scegli Task</string>
+    <string name="add_time_log">Aggiungere Tempo Log</string>
+    <string name="check_time_task">Verificare timer, selezionare e aggiungere le attività di tempo</string>
+    <string name="minutes">Minuti</string>
+    <string name="time_spent">Tempo impiegato</string>
+    <string name="earned">Guadagnato</string>
+    <string name="projects">progetti</string>
+    <string name="settings">impostazioni</string>
+    <string name="check_my_other_apps">Controlla le mie altre applicazioni</string>
+    <string name="share_app">la porzione</string>
+    <string name="rate_app">Recensione App</string>
+</resources>

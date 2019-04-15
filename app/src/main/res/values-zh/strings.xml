@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">跟踪时间和收入项目</string>
+    <string name="add_project">添加项目</string>
+    <string name="project_title">项目名称</string>
+    <string name="enter_client_name">客户名称</string>
+    <string name="project_description">项目介绍</string>
+    <string name="select_start_date">开始日期</string>
+    <string name="additional_information">附加信息</string>
+    <string name="hourly_rate">每小时收费</string>
+    <string name="empty_fields">空字段</string>
+    <string name="add_task_first">添加任务</string>
+    <string name="task_description">任务描述</string>
+    <string name="task_name">任务名称</string>
+    <string name="add_task">添加任务</string>
+    <string name="stop">停止</string>
+    <string name="play">玩</string>
+    <string name="reset">重启</string>
+    <string name="resume">恢复</string>
+    <string name="choose_task">选择任务</string>
+    <string name="add_time_log">添加时间日志</string>
+    <string name="check_time_task">检查定时器，选择任务，并添加时间</string>
+    <string name="minutes">分钟</string>
+    <string name="time_spent">所花费的时间</string>
+    <string name="earned">挣</string>
+    <string name="projects">项目</string>
+    <string name="settings">设置</string>
+    <string name="check_my_other_apps">检查我的其他应用程序</string>
+    <string name="share_app">共享</string>
+    <string name="rate_app">评论应用</string>
+</resources>

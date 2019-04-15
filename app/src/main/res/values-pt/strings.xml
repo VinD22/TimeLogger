@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">Mantenha o controle de tempo e de receita em um projeto</string>
+    <string name="add_project">Adicionar projeto</string>
+    <string name="project_title">título do projeto</string>
+    <string name="enter_client_name">Nome do cliente</string>
+    <string name="project_description">Descrição do Projeto</string>
+    <string name="select_start_date">Data de início</string>
+    <string name="additional_information">informação adicional</string>
+    <string name="hourly_rate">taxa horária</string>
+    <string name="empty_fields">Os campos vazios</string>
+    <string name="add_task_first">Adicionar uma tarefa</string>
+    <string name="task_description">Descrição da tarefa</string>
+    <string name="task_name">Nome da tarefa</string>
+    <string name="add_task">Adicionar tarefa</string>
+    <string name="stop">Pare</string>
+    <string name="play">Toque</string>
+    <string name="reset">Restabelecer</string>
+    <string name="resume">Currículo</string>
+    <string name="choose_task">Escolha Task</string>
+    <string name="add_time_log">Adicione Tempo Log</string>
+    <string name="check_time_task">Verifique contador, selecione tarefas e adicionar tempo</string>
+    <string name="minutes">Minutos</string>
+    <string name="time_spent">Tempo gasto</string>
+    <string name="earned">Ganhou</string>
+    <string name="projects">projetos</string>
+    <string name="settings">Configurações</string>
+    <string name="check_my_other_apps">Verificar os meus outros aplicativos</string>
+    <string name="share_app">a ação</string>
+    <string name="rate_app">Rever aplicativo</string>
+</resources>

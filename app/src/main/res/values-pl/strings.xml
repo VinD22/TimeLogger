@@ -1,0 +1,30 @@
+<resources>
+    <string name="about_app">Śledzić czas i dochodów w projekcie</string>
+    <string name="add_project">Dodaj projekt</string>
+    <string name="project_title">Tytuł Projektu</string>
+    <string name="enter_client_name">Nazwa klienta</string>
+    <string name="project_description">Opis Projektu</string>
+    <string name="select_start_date">Data rozpoczęcia</string>
+    <string name="additional_information">Dodatkowe informacje</string>
+    <string name="hourly_rate">Stawka godzinowa</string>
+    <string name="empty_fields">Puste pola</string>
+    <string name="add_task_first">Dodaj zadanie</string>
+    <string name="task_description">Opis zadania</string>
+    <string name="task_name">Nazwa zadania</string>
+    <string name="add_task">Dodaj zadanie</string>
+    <string name="stop">Zatrzymać</string>
+    <string name="play">Grać</string>
+    <string name="reset">Nastawić</string>
+    <string name="resume">Wznawianie</string>
+    <string name="choose_task">Wybierz zadanie</string>
+    <string name="add_time_log">Dodaj czas Zaloguj</string>
+    <string name="check_time_task">Sprawdzić minutnik, wybierz zadania i dodać czas</string>
+    <string name="minutes">Minuty</string>
+    <string name="time_spent">Czas spędzony</string>
+    <string name="earned">zarobione</string>
+    <string name="projects">Projektowanie</string>
+    <string name="settings">Ustawienia</string>
+    <string name="check_my_other_apps">Sprawdź inne aplikacje</string>
+    <string name="share_app">Dzielić</string>
+    <string name="rate_app">Recenzja</string>
+</resources>
